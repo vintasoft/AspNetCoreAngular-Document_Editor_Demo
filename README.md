@@ -7,7 +7,7 @@ The project demonstrates how to edit new or existing DOCX document in ASP.NET Co
 * JavaScript UI control that works in all major HTML5 web browsers
 * User interface is compatible with personal computers, tablets and smartphones
 * Create new or load an existing DOCX document
-* View and edit DOCX document:
+* View and edit DOCX document
 * Add/change/delete text content in document
 * Change text properties (font, font size, bold, italic, text color, ...) in a document
 * Change paragraph properties (style, text alignment, text indent, list style, ...) in a document
